@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "R5CKFuYLScoKYOZUuQgBUPgAd8zxFEL0tNBhTXdKdFg=",
+  "Source": "CollegeFestMVC",
+  "BasePath": "_content/CollegeFestMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CollegeFestMVC\\wwwroot",
+      "Source": "CollegeFestMVC",
+      "ContentRoot": "C:\\Users\\Pranav\\Downloads\\CollegeFestMVC\\CollegeFestMVC\\wwwroot\\",
+      "BasePath": "_content/CollegeFestMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
